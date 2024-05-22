@@ -1,1 +1,2 @@
 "# Gateball" 
+Pequeno projeto voltado para o desenvolvimento de um sistema que realize cadastro de usuários, jogadores e equipes. Também possuirá um sistema de campo de gateball, para ajustar replays e cronometrar jogadas.
